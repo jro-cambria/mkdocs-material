@@ -388,7 +388,7 @@ in the [color schemes][palette.scheme] section:
       - stylesheets/extra.css
     ```
 
-Additionally, the `slate` color scheme defines all of it's colors via `hsla`
+Additionally, the `slate` color scheme defines all of its colors via `hsla`
 color functions and deduces its colors from the `--md-hue` CSS variable. You
 can tune the `slate` theme with:
 
